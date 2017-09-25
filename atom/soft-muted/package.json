@@ -1,0 +1,64 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/private/var/folders/8l/2vxszlss4dv9l6q31m55z6n00000gp/T/d-116911-54212-13wyrho/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/private/var/folders/8l/2vxszlss4dv9l6q31m55z6n00000gp/T/d-116911-54212-13wyrho/package.tgz",
+        "spec": "/private/var/folders/8l/2vxszlss4dv9l6q31m55z6n00000gp/T/d-116911-54212-13wyrho/package.tgz",
+        "type": "local"
+      },
+      "/private/var/folders/8l/2vxszlss4dv9l6q31m55z6n00000gp/T/apm-install-dir-116911-54212-1qbxyku"
+    ]
+  ],
+  "_from": "../d-116911-54212-13wyrho/package.tgz",
+  "_id": "soft-muted@0.3.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/soft-muted",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/private/var/folders/8l/2vxszlss4dv9l6q31m55z6n00000gp/T/d-116911-54212-13wyrho/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/private/var/folders/8l/2vxszlss4dv9l6q31m55z6n00000gp/T/d-116911-54212-13wyrho/package.tgz",
+    "spec": "/private/var/folders/8l/2vxszlss4dv9l6q31m55z6n00000gp/T/d-116911-54212-13wyrho/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-116911-54212-13wyrho/package.tgz",
+  "_shasum": "8fef8fc308e25b281ac59b5da7cf81efbbd55c17",
+  "_shrinkwrap": null,
+  "_spec": "/private/var/folders/8l/2vxszlss4dv9l6q31m55z6n00000gp/T/d-116911-54212-13wyrho/package.tgz",
+  "_where": "/private/var/folders/8l/2vxszlss4dv9l6q31m55z6n00000gp/T/apm-install-dir-116911-54212-1qbxyku",
+  "bugs": {
+    "url": "https://github.com/unforswearing/soft-muted-syntax/issues"
+  },
+  "dependencies": {},
+  "description": "A light theme with minimal muted colors. Goes down smooth and easy.",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/unforswearing/soft-muted-syntax#readme",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "license": "MIT",
+  "name": "soft-muted",
+  "optionalDependencies": {},
+  "readme": "# Soft Muted\n\nFor [Atom](https://atom.io). A light syntax theme with minimal muted colors. Goes down smooth and easy. Pairs well with JavaScript, HTML, CSS, and Bash.\n\n[![theme][1]][2]\n\n[1]: https://raw.githubusercontent.com/unforswearing/soft-muted-syntax/master/screenshot.png\n[2]: https://raw.githubusercontent.com/unforswearing/soft-muted-syntax/master/screenshot.png\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unforswearing/soft-muted-syntax.git"
+  },
+  "theme": "syntax",
+  "version": "0.3.0"
+}
