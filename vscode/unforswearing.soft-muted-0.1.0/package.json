@@ -1,11 +1,11 @@
 {
-    "name": "soft-muted",
-    "displayName": "soft-muted",
+    "name": "soft-muted-1",
+    "displayName": "Soft Muted",
     "description": "A light syntax theme with minimal muted colors. Goes down smooth and easy. Pairs well with JavaScript, HTML, CSS, and Bash.",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "publisher": "unforswearing",
     "engines": {
-        "vscode": "^1.16.0"
+        "vscode": "^1.0.0"
     },
     "categories": [
         "Themes"
@@ -13,9 +13,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "soft-muted",
+                "label": "Soft Muted",
                 "uiTheme": "vs",
-                "path": "./themes/soft-muted-color-theme.json"
+                "path": "./themes/soft-muted-theme.json"
             }
         ]
     }
